@@ -4,7 +4,7 @@
 
 phonon-webhook application
 
-This application exposes REST APIs to create, update and fetch a request.
+This application exposes will call the actual REST API to update the reqeust status post processing.
 It also move request to target application for processing.
 
 Steps to build the application:
